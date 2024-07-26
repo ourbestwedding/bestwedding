@@ -120,12 +120,20 @@ a{
     border-radius: 30px 30px 30px 30px;
 
 }
+.Line {
+    color:#4b4b4b;
+    font-family: 'Caveat', cursive;
+    font-size: 24px;
+
+    text-decoration:underline;
+    margin:0;
+}
  h3{
     font-family: 'Caveat', cursive;
     font-size: 2em;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    color: #7c81a2;
+    color: #495181;
 
 }
 @media only screen and (max-width: 600px) {
